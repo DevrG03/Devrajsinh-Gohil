@@ -33,13 +33,11 @@
 ## Github Stats
 ![](https://komarev.com/ghpvc/?username=DevrG03)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DevrG03&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://gh-trophy.cdnsoft.net/?username=DevrG03&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevrG03&theme=dracula)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevrG03&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevrG03&layout=compact&theme=dracula&hide_border=true)](https://github.com/Devrajsinh-Gohil/github-readme-stats)
 
  <br/>
  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
